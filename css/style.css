@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#typed_part{
+
+   padding: 130px 0;
+    background:linear-gradient(to top,#770e02,#070606);
+   
+    
+}
+
+.container{
+
+    width: 1170px;
+    margin: 0 auto;
+    
+}
+
+.container H1{
+
+    font-size: 50px;
+    color: red;
+    text-align: center;
+    padding-bottom: 20px;
+   
+
+}
+
+
+.playerone{
+
+    text-align: center;
+    color: red;
+
+}
+
+
+.playeroneman{
+    padding-bottom: 10px;
+
+
+}
+
+.playeronebtn{
+    border-radius: 41px;
+    padding: 5px 10px !important;
+    border: 2px solid rgba(3, 3, 3, 0.2) !important;
+    background-color: #FCD980;
+    font-size: 15px;
+
+}
+
+.playeroneinput{
+    border-radius: 11px;
+    padding: 5px 10px !important;
+    border: 2px solid rgba(3, 3, 3, 0.2) !important;
+    background-color: #FCD980;
+    
+
+}
+
+
+
+
+.playertwo{
+
+    text-align: center;
+    display: none;
+    color: red;
+
+}
+
+
+.playertwoman{
+    padding-bottom: 10px;
+
+
+}
+
+.playertwobtn{
+    border-radius: 41px;
+    padding: 5px 10px !important;
+    border: 2px solid rgba(3, 3, 3, 0.2) !important;
+    background-color: #FCD980;
+    font-size: 15px;
+
+}
+
+.playertwoinput{
+    border-radius: 11px;
+    padding: 5px 10px !important;
+    border: 2px solid rgba(3, 3, 3, 0.2) !important;
+    background-color: #FCD980;
+    
+
+}
+
+
+
+
+
+.playerthree{
+
+    text-align: center;
+    display: none;
+    color: red;
+
+}
+
+
+.playerthreeman{
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+
+}
+
+.playerthreebtn{
+    border-radius: 41px;
+    padding: 5px 10px !important;
+    border: 2px solid rgba(3, 3, 3, 0.2) !important;
+    background-color: #FCD980;
+    font-size: 15px;
+
+}
+
+.playerthreeinput{
+    border-radius: 11px;
+    padding: 5px 10px !important;
+    border: 2px solid rgba(3, 3, 3, 0.2) !important;
+    background-color: #FCD980;
+    
+
+}
+
+
+
+
+
+.playeroneerro{
+
+    color: red;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.akhon{
+    display: flex;
+    flex-wrap: wrap;
+}
+.countdown{
+    width: 24%;
+    height: 300px;
+    
+}
+.countdown h2{
+    line-height: 300px;
+    padding-left: 550px;
+    color: red;
+    font-size: 50px;
+}
